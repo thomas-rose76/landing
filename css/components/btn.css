@@ -1,0 +1,12 @@
+.btn-white {
+  display: inline-block;
+  background-color: #2CA1EF;
+  padding: 12px 24px;
+  border-radius: 50px;
+  color: white;
+}
+
+.btn-white:hover {
+  background-color: #98c5e2;
+  color:white;
+}
